@@ -1,5 +1,7 @@
 # Data Science Portfolio
-Repository containing portfolio of data science projects completed by me for academic, self learning purposes. Presented in the form of ipynb,.py files and other file formats.
+Repository containing portfolio of data science projects completed by me for academic, self learning purposes. Presented in the form of ipynb,.py files and other file formats according to dependencies and requiremnts of recpective project.
+
+Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
 
 # Contents
 - **Capstone Machine learning Projects**
@@ -19,7 +21,7 @@ Click on upper link for checking final output of the project- search any cellpho
 
   - [Image Scraper]()
   
- *Tools:Flask,Heroku,BeautifulSoup,urllib,Requests,Git*
+ *Tools:Flask,Heroku,Python Libraries-BeautifulSoup,urllib,Requests,Git*
 
 
 
@@ -30,7 +32,7 @@ Click on upper link for checking final output of the project- search any cellpho
 
 
 
-
+*Tools: Python, MySQL,Tableau
 
 - **Data Analysis and Visualisation**
   - [Air Quality data analysis](https://github.com/akshaybaisla2/Air-Quality-data-analysis): Analyze the air quality data of my own country to find some underlying principles or patterns which might give me an insight into how severe the problem is.
