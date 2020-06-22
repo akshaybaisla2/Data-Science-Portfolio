@@ -2,7 +2,7 @@
 Repository containing portfolio of data science projects completed by me for academic, self learning purposes. Presented in the form of ipynb,.py files and other file formats.
 
 # Contents
-- **Capstone Machine learning Project**
+- **Capstone Machine learning Projects**
 
 
 
@@ -10,16 +10,14 @@ Repository containing portfolio of data science projects completed by me for aca
 []()
 
 
-
+- **Deep learning Projects**
 
 - **Python Web scrapping project with deployment**
   - [Review Scrapper](https://github.com/akshaybaisla2/Review-Scrapper):This Project is intended to create a web scraper. Web scrappers are extensively used in the industry today for competitive pricing, market studies, customer sentiment analysis, etc. In this case, a review scrapper is used for extracting reviews from an e-commerce website and then deploying it to the Heroku cloud platform. This project takes a simple example of an online cell phone purchase and tries to create a review scrapper.
   - [Image Scraper]()
   
- *Tools:*
+ *Tools:Flask,Heroku,BeautifulSoup,urllib,Requests,Git*
 
-
-- **Virtual Internships**
 
 
 - **Micro projects ML**
