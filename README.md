@@ -14,8 +14,8 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - **Python Web scrapping project with deployment**
   - [Review Scrapper](https://github.com/akshaybaisla2/Review-Scrapper):This Project is intended to create a web scraper. In this case, a review scrapper is used for extracting reviews from an e-commerce website and then deploying it to the Heroku cloud platform. This project takes a simple example of an online cell phone purchase and tries to create a review scrapper.<br>
-  *Final Output:<http://reviewscrapper-brave-rabbit-ms.cfapps.io>*
-
+  
+    - *Final Output:<http://reviewscrapper-brave-rabbit-ms.cfapps.io>*<br>
 Click on upper link for checking final output of the project- search any cellphone name/ brand in the search bar and my program will return all the reviews related to that cellphone after scraping the same from internet.
   - [Image Scraper]()
   
