@@ -32,7 +32,7 @@ Click on upper link for checking final output of the project- search any cellpho
 
 
 
-*Tools: Python, MySQL,Tableau
+*Tools: Python, MySQL,Tableau*
 
 - **Data Analysis and Visualisation**
   - [Air Quality data analysis](https://github.com/akshaybaisla2/Air-Quality-data-analysis): Analyze the air quality data of my own country to find some underlying principles or patterns which might give me an insight into how severe the problem is.
