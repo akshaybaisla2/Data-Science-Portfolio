@@ -14,7 +14,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - **Python Web scrapping project with deployment**
   - [Review Scrapper]()
-  - [Image Scrapeer]()
+  - [Image Scraper]()
   
  *Tools:*
 
