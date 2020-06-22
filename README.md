@@ -35,5 +35,5 @@ Repository containing portfolio of data science projects completed by me for aca
   - [India Census 2011 Eda](https://github.com/akshaybaisla2/India-Census-2011-Eda/blob/master/Census%202011.ipynb): Basic eda on india census-2011 data.
   - [Real time pollution analysis](https://github.com/akshaybaisla2/Real-time-pollution-analysis-): This project is based on analysing air quality information of INDIA(aqi,major pollutants) using python.
 
-**Tools:** *Pandas,Numpy,Seaborn,Matplotlib,Requests*
+*Tools:Pandas,Numpy,Seaborn,Matplotlib,Requests*
 
