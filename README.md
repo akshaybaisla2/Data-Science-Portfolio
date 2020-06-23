@@ -9,7 +9,7 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 
 
 - **NLP**
-[]()
+  - [Sms Spam Classifier]()
 
 
 - **Deep learning Projects**
