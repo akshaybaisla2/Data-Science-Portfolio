@@ -23,7 +23,7 @@ Click on upper link for checking final output of the project- search any cellpho
 
 
 - **Micro projects ML**
-  - [Black Friday Sales Pridiction](https://github.com/akshaybaisla2/Black-friday-sale-prediction): Build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
+  - [Black Friday Sales Prediction](https://github.com/akshaybaisla2/Black-friday-sale-prediction): Build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
   - [Employee Absenteeism](https://github.com/akshaybaisla2/employee_Absenteeism): Employee Absenteeism at work analysis and prediction using Python, MYSQL, Tableau
 
 *Tools: Python, MySQL,Tableau*
