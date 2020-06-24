@@ -8,11 +8,8 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 
 
 
-- **NLP**
-  - [Sms Spam Classifier]()
 
-
-- **Deep learning Projects**
+- **Capstone Deep learning Projects**
 
 - **Python Web scrapping project with deployment**
   - [Review Scrapper](https://github.com/akshaybaisla2/Review-Scrapper):This Project is intended to create a web scraper. In this case, a review scrapper is used for extracting reviews from an e-commerce website and then deploying it to the Heroku cloud platform. This project takes a simple example of an online cell phone purchase and tries to create a review scrapper.<br>
@@ -29,10 +26,10 @@ Click on upper link for checking final output of the project- search any cellpho
   - [Black Friday Sales Pridiction](https://github.com/akshaybaisla2/Black-friday-sale-prediction): Build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
   - [Employee Absenteeism](https://github.com/akshaybaisla2/employee_Absenteeism): Employee Absenteeism at work analysis and prediction using Python, MYSQL, Tableau
 
-
-
-
 *Tools: Python, MySQL,Tableau*
+
+- **NLP**
+  - [Sms Spam Classifier](https://github.com/akshaybaisla2/SmsSpamClassifier/blob/master/Sms_Spam_Classifier%20(1).ipynb)
 
 - **Data Analysis and Visualisation**
   - [Air Quality data analysis](https://github.com/akshaybaisla2/Air-Quality-data-analysis): Analyze the air quality data of my own country to find some underlying principles or patterns which might give me an insight into how severe the problem is.
