@@ -31,6 +31,7 @@ Click on upper link for checking final output of the project- search any cellpho
 - **NLP**
   - [Sms Spam Classifier](https://github.com/akshaybaisla2/SmsSpamClassifier/blob/master/Sms_Spam_Classifier%20(1).ipynb): Prediciting whether a sms is spam, sms are tagged acording being ham (legitimate) or spam.
 
+*Tools: nltk,spacy,word2vec*
 - **Data Analysis and Visualisation**
   - [Air Quality data analysis](https://github.com/akshaybaisla2/Air-Quality-data-analysis): Analyze the air quality data of my own country to find some underlying principles or patterns which might give me an insight into how severe the problem is.
   - [Titanic Dataset - Exploratory Analysis](https://github.com/akshaybaisla2/Titanic-Dataset---Exploratory-Analysis/blob/master/Titanic%20.ipynb):Exploratory Analysis of the       passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
