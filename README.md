@@ -29,7 +29,7 @@ Click on upper link for checking final output of the project- search any cellpho
 *Tools: Python, MySQL,Tableau*
 
 - **NLP**
-  - [Sms Spam Classifier](https://github.com/akshaybaisla2/SmsSpamClassifier/blob/master/Sms_Spam_Classifier%20(1).ipynb): Prediciting whether a sms is spam, sms are tagged acording being ham (legitimate) or spam.
+  - [Sms Spam Classifier](https://github.com/akshaybaisla2/SmsSpamClassifier/blob/master/Sms_Spam_Classifier%20(1).ipynb): Prediciting whether a sms is spam or ham, sms are tagged accordingly- ham for legitimate and spam for spam messages.
 
 *Tools: nltk,spacy,word2vec*
 - **Data Analysis and Visualisation**
