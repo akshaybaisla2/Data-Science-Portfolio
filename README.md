@@ -18,12 +18,12 @@ Click on the upper link for checking the final output of the project- search any
 
 
 - **Capstone Deep learning Projects**
-  -[Dog Cat Convolution Neural Network Classifier]()
-
-Problem statement
-In this Section we are implementing Convolution Neural Network(CNN) Classifier for Classifying dog and cat images.Here, I use Keras, an high level neural network Library for classify Dog vs cat images from kaggle data-set. 
+  -[Dog Cat Convolution Neural Network Classifier]():
+In this project we are implementing Convolution Neural Network(CNN) Classifier for Classifying dog and cat images.Here, I use Keras, an high level neural network Library for classify Dog vs cat images from kaggle data-set. 
   - *Final output: flask app link: <https://catdogclassifier-responsive-pangolin-wl.cfapps.io/->*<br>
   Click on the upper link for checking the final output of the project. Upload image of dog or cat and my model try to classify them correctly.
+  
+  *Tools:Flask,Pivotal,Keras,tensorflow,numpy,Scipy
  
   
 
