@@ -40,9 +40,8 @@ In this project we are implementing Convolution Neural Network(CNN) Classifier f
 *Tools: nltk,spacy,word2vec*
 
 - **Tableau**
-  - [COVID19 data analysis using Tableau](https://public.tableau.com/profile/) 							
-      - Dashboard1: Create dashboards depicting- corona spread among different states (INDIA), Confirmed Cases, Recovered, Death cases charts.
-	    - Dashboard2: Overview of Indian health infrastructure- Total hospitals, Hospital beds in urban, rural areas.
+  - [COVID19 data analysis using Tableau](https://public.tableau.com/profile/akshay.kumar4273#!/vizhome/covid19_India_15909458477050/Dashboard1) 							
+      - Dashboard1: Create dashboards depicting- corona spread among different states (INDIA), Confirmed Cases, Recovered, Death cases charts. Dashboard2: Overview of Indian health infrastructure- Total hospitals, Hospital beds in urban, rural areas.
 	 
 
 - **Data Analysis and Visualisation**
