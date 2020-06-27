@@ -15,8 +15,8 @@ Click on the upper link for checking the final output of the project- search any
 - **Machine learning Projects with deployment**
 	- [Salary prediction](https://github.com/akshaybaisla2/Salary_Prediction) Salary Prediction model based on Experience, Test score and Interview score deployed on Heroku cloud platform.
 		- *Final output: <https://salary-prediction-dep.herokuapp.com/>*<br>
-	Enter the required fields to get salary prediction
-	-[Thyroid detection]- *Note: currently working on this project*
+	Enter the required fields to get salary prediction<br>
+	- Thyroid detection- *Note: currently working on this project*
 	 Eda on project dataset can be found here- [Thyroid detection eda](https://github.com/akshaybaisla2/Eda_thyroid-dataset/blob/master/thyroidDetection-checkpoint.ipynb)
 
 *Tools:Flask,Heroku,numpy,scipy,scikit-learn,matplotlib,pandas*
