@@ -23,7 +23,7 @@ Click on the upper link for checking the final output of the project- search any
 *Tools:Flask,Heroku,numpy,scipy,scikit-learn,matplotlib,pandas*
 
 
-- **Deep learning Projects with deployement**
+- **Deep learning Projects with deployment**
     - [Dog Cat Convolution Neural Network Classifier]():
 In this project we are implementing Convolution Neural Network(CNN) Classifier for Classifying dog and cat images.Here, I use Keras, an high level neural network Library for classify Dog vs cat images from kaggle data-set. 
         - *Final output: flask app link: <https://catdogclassifier-responsive-pangolin-wl.cfapps.io/>*<br>
