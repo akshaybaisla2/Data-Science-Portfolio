@@ -27,7 +27,7 @@ In this project we are implementing Convolution Neural Network(CNN) Classifier f
   
 
 - **Micro projects ML**
-  - [Black Friday Sales Prediction](https://github.com/akshaybaisla2/Black-friday-sale-prediction): Build a model to predict the purchase amount of customer against various products which will help them to create a personalized offer for customers against different products.
+  - [Black Friday Sales Prediction](https://github.com/akshaybaisla2/Black-friday-sale-prediction/blob/master/black%20friday%20prediction.ipynb): Build a model to predict the purchase amount of customer against various products which will help them to create a personalized offer for customers against different products.
   - [Employee Absenteeism](https://github.com/akshaybaisla2/employee_Absenteeism): Employee Absenteeism at work analysis and prediction using Python, MYSQL, Tableau
   
 
