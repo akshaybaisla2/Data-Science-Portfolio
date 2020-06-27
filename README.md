@@ -10,17 +10,19 @@ Note: Data used in the projects (accessed under data directory) is for demonstra
 Click on the upper link for checking the final output of the project- search any cellphone name/ brand in the search bar and my program will return all the reviews related to that cellphone after scraping the same from internet.<br>
   - [Image Scraper]()
   
- *Tools:Flask,Heroku,Python Libraries-BeautifulSoup,urllib,Requests,Git*
+ *Tools:Flask,Pivotal,Python Libraries-BeautifulSoup,urllib,Requests,Git*
 
 - **Machine learning Projects with deployment**
-	- [Salary prediction](https://github.com/akshaybaisla2/Salary_Prediction)Deployment of simple Salary_Prediction model based on Experience, Test score and Interview score on Heroku cloud platform.
+	- [Salary prediction](https://github.com/akshaybaisla2/Salary_Prediction) Salary Prediction model based on Experience, Test score and Interview score deployed on Heroku cloud platform.
 		- *Final output: <https://salary-prediction-dep.herokuapp.com/>*<br>
 	Enter the required fields to get salary prediction
+	-[Thyroid detection]- *Note: currently working on this project*
+	 Eda on project dataset can be found here- [Thyroid detection eda](https://github.com/akshaybaisla2/Eda_thyroid-dataset/blob/master/thyroidDetection-checkpoint.ipynb)
 
 *Tools:Flask,Heroku,numpy,scipy,scikit-learn,matplotlib,pandas*
 
 
-- **Deep learning Projects**
+- **Deep learning Projects with deployement**
     - [Dog Cat Convolution Neural Network Classifier]():
 In this project we are implementing Convolution Neural Network(CNN) Classifier for Classifying dog and cat images.Here, I use Keras, an high level neural network Library for classify Dog vs cat images from kaggle data-set. 
         - *Final output: flask app link: <https://catdogclassifier-responsive-pangolin-wl.cfapps.io/>*<br>
@@ -39,6 +41,7 @@ In this project we are implementing Convolution Neural Network(CNN) Classifier f
 
 - **Natural Language Processing (NLP)**
   - [Sms Spam Classifier](https://github.com/akshaybaisla2/SmsSpamClassifier/blob/master/Sms_Spam_Classifier%20(1).ipynb): Predicting whether an SMS is a spam or ham, SMS are tagged accordingly- ham for legitimate and spam for spam messages.
+  - [Sentiment analysis]()- *Note- currently working on the project*
 
 
 *Tools: nltk,spacy,word2vec*
