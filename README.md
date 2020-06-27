@@ -50,7 +50,8 @@ In this project we are implementing Convolution Neural Network(CNN) Classifier f
 - **Tableau**
   - [COVID19 data analysis using Tableau](https://public.tableau.com/profile/akshay.kumar4273#!/vizhome/covid19_India_15909458477050/Dashboard1) 							
       - Dashboard1: Create dashboards depicting- corona spread among different states (INDIA), Confirmed Cases, Recovered, Death cases charts. Dashboard2: Overview of Indian health infrastructure- Total hospitals, Hospital beds in urban, rural areas.
-	 
+   
+*Tools: python, Tableau*	 
 
 - **Data Analysis and Visualisation**
   - [Air Quality data analysis](https://github.com/akshaybaisla2/Air-Quality-data-analysis): Analyze the air quality data of my own country to find some underlying principles or patterns which might give me an insight into how severe the problem is.
