@@ -16,7 +16,7 @@ Click on the upper link for checking the final output of the project- search any
 	- [Salary prediction](https://github.com/akshaybaisla2/Salary_Prediction)Deployment of simple Salary_Prediction model based on Experience, Test score and Interview score on Heroku cloud platform.
 	- *Final output: <https://salary-prediction-dep.herokuapp.com/>*<br>
 	Enter the required fields to get salary prediction
-
+*Tools:Flask,Heroku,numpy,scipy,scikit-learn,matplotlib,pandas*
 
 
 - **Deep learning Projects**
@@ -25,7 +25,7 @@ In this project we are implementing Convolution Neural Network(CNN) Classifier f
         - *Final output: flask app link: <https://catdogclassifier-responsive-pangolin-wl.cfapps.io/>*<br>
   Click on the upper link for checking the final output of the project. Upload image of dog or cat and my model try to classify them correctly.
   
-  *Tools:Flask,Pivotal,Keras,tensorflow,numpy,Scipy
+  *Tools:Flask,Pivotal,Keras,tensorflow,numpy,Scipy*
  
   
 
