@@ -14,8 +14,9 @@ Click on the upper link for checking the final output of the project- search any
 
 - **Machine learning Projects with deployment**
 	- [Salary prediction](https://github.com/akshaybaisla2/Salary_Prediction)Deployment of simple Salary_Prediction model based on Experience, Test score and Interview score on Heroku cloud platform.
-	- *Final output: <https://salary-prediction-dep.herokuapp.com/>*<br>
+		- *Final output: <https://salary-prediction-dep.herokuapp.com/>*<br>
 	Enter the required fields to get salary prediction
+
 *Tools:Flask,Heroku,numpy,scipy,scikit-learn,matplotlib,pandas*
 
 
