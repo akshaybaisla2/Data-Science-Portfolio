@@ -35,8 +35,8 @@ In this project we are implementing Convolution Neural Network(CNN) Classifier f
 
 - **Micro projects ML**
 	- [Bikes-rental](https://github.com/akshaybaisla2/Bikes-rental/blob/master/bikes.ipynb):Problem Statement- Bike-sharing system are meant to rent the bicycle and return to the different place for the bike sharing purpose in Washington DC. You are provided with rental data spanning for 2 years. You must predict the total count of bikes rented during each hour covered by the test set, using only information available prior to the rental period.
-  - [Black Friday Sales Prediction](https://github.com/akshaybaisla2/Black-friday-sale-prediction/blob/master/black%20friday%20prediction.ipynb): Build a model to predict the purchase amount of customer against various products which will help them to create a personalized offer for customers against different products.<br>
-  -[Cristiano Ronaldo goal dataset eda](https://github.com/akshaybaisla2/Cristiano-Ronaldo-goals-dataset/blob/master/CristianoRonaldo.ipynb)
+  - [Black Friday Sales Prediction](https://github.com/akshaybaisla2/Black-friday-sale-prediction/blob/master/black%20friday%20prediction.ipynb): Build a model to predict the purchase amount of customer against various products which will help them to create a personalized offer for customers against different products.
+  - [Cristiano Ronaldo goal dataset eda](https://github.com/akshaybaisla2/Cristiano-Ronaldo-goals-dataset/blob/master/CristianoRonaldo.ipynb)
   - [Employee Absenteeism](https://github.com/akshaybaisla2/employee_Absenteeism): Employee Absenteeism at work analysis and prediction using Python, MYSQL, Tableau
   
 
