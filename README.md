@@ -1,7 +1,7 @@
 # Data Science Portfolio
 Repository containing a portfolio of data science projects completed by me for academic, self-learning purposes. Presented in the form of ipynb,.py files and other file formats according to dependencies and requirements of respective projects.
 
-Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
+Note: Data used in the projects is for demonstration purposes only.
 
 # Content
 - **Python Web scrapping project with deployment**
