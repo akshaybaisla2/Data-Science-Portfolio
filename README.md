@@ -57,7 +57,6 @@ In this project we are implementing Convolution Neural Network(CNN) Classifier f
 
 - **Data Analysis and Visualisation**
   - [Air Quality data analysis](https://github.com/akshaybaisla2/Air-Quality-data-analysis): Analyze the air quality data of my own country to find some underlying principles or patterns which might give me an insight into how severe the problem is.
-  - [India Census 2011 Eda](https://github.com/akshaybaisla2/India-Census-2011-Eda/blob/master/Census%202011.ipynb): Basic eda on india census-2011 data.
   - [Real time pollution analysis](https://github.com/akshaybaisla2/Real-time-pollution-analysis-): This project is based on analyzing air quality information of INDIA(AQI, major pollutants) using python.
    - [Titanic Dataset - Exploratory Analysis](https://github.com/akshaybaisla2/Titanic-Dataset---Exploratory-Analysis/blob/master/Titanic%20.ipynb): Exploratory Analysis of the passengers on board RMS Titanic using Pandas and Seaborn visualizations.
   - [Thyroid Detection](https://github.com/akshaybaisla2/Eda_thyroid-dataset/blob/master/thyroidDetection-checkpoint.ipynb): EDA on thyroid detection dataset insights from this eda are later used to build a classification methodology to predict the type of Thyroid based on training data.
