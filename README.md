@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Repository containing a portfolio of data science projects completed by me for academic, self-learning purposes Presented in Pyhton
+Repository containing a portfolio of data science projects completed by me for academic, self-learning purposes presented in Python.
 
 Note: Data used in the projects is for demonstration purposes only.
 
