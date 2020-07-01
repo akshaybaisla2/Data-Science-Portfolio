@@ -41,7 +41,7 @@ In this project we are implementing Convolution Neural Network(CNN) Classifier f
   
   *Tools:Flask,Pivotal,Keras,tensorflow,numpy,Scipy*
   
-  - **Deep learning projetcs**
+ - **Deep learning projetcs**
     - [Car Brand Classification using keras](https://github.com/akshaybaisla2/Transfer-learning-car-classification/blob/master/Transfer%20Learning%20Resnet%2050.ipynb): classify car brands with the help of Transfer Learning VGG 16 and VGG 19 using Keras.
  
   
