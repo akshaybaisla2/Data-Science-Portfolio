@@ -12,7 +12,7 @@ Click on the upper link for checking the final output of the project- search any
   
  *Tools:Flask,Pivotal,Python Libraries-BeautifulSoup,urllib,Requests,Git*
  
-- **Machine learning Projects with deployment**
+- **End to End Machine learning Projects with deployment**
   - [Salary prediction](https://github.com/akshaybaisla2/Salary_Prediction): A simple Salary Prediction model based on Experience, Test score and Interview score deployed on Heroku cloud platform.<br>  
     - *Final output: <https://salary-prediction-dep.herokuapp.com/>*<br>
 Enter the required fields to get salary prediction<br>
@@ -22,7 +22,7 @@ Enter the required fields to get salary prediction<br>
 
 *Tools:Flask,Heroku,numpy,scipy,scikit-learn,matplotlib,pandas*
 
-- **Micro projects ML**
+- **Machine Learning projects**
   - [Bikes-rental](https://github.com/akshaybaisla2/Bikes-rental/blob/master/bikes.ipynb):Problem Statement- Bike-sharing system are meant to rent the bicycle and return to the different place for the bike sharing purpose in Washington DC. You are provided with rental data spanning for 2 years. You must predict the total count of bikes rented during each hour covered by the test set, using only information available prior to the rental period.
   - [Black Friday Sales Prediction](https://github.com/akshaybaisla2/Black-friday-sale-prediction/blob/master/black%20friday%20prediction.ipynb): Build a model to predict the purchase amount of customer against various products which will help them to create a personalized offer for customers against different products.
   - [Cristiano Ronaldo goals dataset eda](https://github.com/akshaybaisla2/Cristiano-Ronaldo-goals-dataset/blob/master/CristianoRonaldo.ipynb): Dataset of Cristiano Ronaldo’s attempts on the goal target, in his all recorded & unrecorded matches, predict if he has scored a goal or not .
@@ -33,13 +33,16 @@ Enter the required fields to get salary prediction<br>
 
 
 
-- **Deep learning Projects with deployment**
+- **End to End Deep learning Projects with deployment**
     - [Dog Cat Convolution Neural Network Classifier]():
 In this project we are implementing Convolution Neural Network(CNN) Classifier for Classifying dog and cat images.Here, I use Keras, an high level neural network Library for classify Dog vs cat images from kaggle data-set. 
         - *Final output: flask app link: <https://catdogclassifier-responsive-pangolin-wl.cfapps.io/>*<br>
   Click on the upper link for checking the final output of the project. Upload image of dog or cat and my model try to classify them correctly.
   
   *Tools:Flask,Pivotal,Keras,tensorflow,numpy,Scipy*
+  
+  - **Deep learning projetcs**
+    - [Car Brand Classification using keras](https://github.com/akshaybaisla2/Transfer-learning-car-classification/blob/master/Transfer%20Learning%20Resnet%2050.ipynb): classify car brands with the help of Transfer Learning VGG 16 and VGG 19 using Keras.
  
   
 
