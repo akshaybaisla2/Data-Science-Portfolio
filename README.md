@@ -8,7 +8,7 @@ Note: Data used in the projects is for demonstration purposes only.
   - [Review Scrapper](https://github.com/akshaybaisla2/Review-Scrapper): This Project is intended to create a web scraper. In this case, a review scrapper is used for extracting reviews from an e-commerce website and then deploying it to the Heroku cloud platform. This project takes a simple example of an online cell phone purchase and tries to create a review scrapper.<br>
     - *Final Output: <https://reviewscrapper-fantastic-raven-rj.cfapps.io/>*<br>
 Click on the upper link for checking the final output of the project- search any cellphone name/ brand in the search bar and my program will return all the reviews related to that cellphone after scraping the same from internet.<br>
-	- Refer this pdf for explanation: [Review scrapper ](https://github.com/akshaybaisla2/Review-Scrapper/blob/master/ReviewScrapper.pdf 
+	- Refer this pdf for explanation: [Review scrapper ](https://github.com/akshaybaisla2/Review-Scrapper/blob/master/ReviewScrapper.pdf)
   
   
  *Tools:Flask,Pivotal,Python Libraries-BeautifulSoup,urllib,Requests,Git*
@@ -37,7 +37,7 @@ Enter the required fields to get salary prediction<br>
 - **End to End Deep learning Projects with deployment**
     - [Dog Cat Convolution Neural Network Classifier]():
 In this project we are implementing Convolution Neural Network(CNN) Classifier for Classifying dog and cat images.Here, I use Keras, an high level neural network Library for classify Dog vs cat images from kaggle data-set. 
-        - *Final output: flask app link: <https://catdogclassifier-responsive-pangolin-wl.cfapps.io/>*<br>
+        - *Final output: <https://catdogclassifier-responsive-pangolin-wl.cfapps.io/>*<br>
   Click on the upper link for checking the final output of the project. Upload image of dog or cat and my model try to classify them correctly.
   
   *Tools:Flask,Pivotal,Keras,tensorflow,numpy,Scipy*
